@@ -1,1 +1,2 @@
-# flutter-nlw6-together
+# NWL 6 Together - Flutter
+All Flutter projects from NLW 6
