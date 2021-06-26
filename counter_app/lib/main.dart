@@ -26,7 +26,7 @@ class _HomePageState extends State<HomePage> {
     Widget build(BuildContext context) {
         return Scaffold(
             appBar: AppBar(
-                title: Center(child: Text('Meu primeiro App'))
+                title: Text('Meu primeiro App')
             ),
             body: Center(
                 child: Text('CONTADOR\n$count', textAlign: TextAlign.center)
